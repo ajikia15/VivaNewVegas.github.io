@@ -256,7 +256,7 @@ img {
   color: rgb(255, 255, 255);
 }
 
-.titlecontainer .guideLinks {
+.titlecontainer .{
   display: flex;
   margin-left: auto;
 }
@@ -264,7 +264,6 @@ img {
 .titlecontainer .guideLinks a {
   color: rgb(220, 220, 220);
   font-size: 1.2em;
-  margin-top: 0.75em;
 }
 
 .titlecontainer img {
